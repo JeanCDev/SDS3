@@ -1,0 +1,16 @@
+package com.devsuperior.dsvendas.dto;
+
+public class SalesSumDTO {
+	
+	private String sellerName;
+	private Double sum;
+	
+	public SalesSumDTO() {
+	}
+
+	public SalesSumDTO(Seller sellere, Double sum) {
+		this.sellerName = Seller.getName();
+		this.sum = sum;
+	}
+	
+}
