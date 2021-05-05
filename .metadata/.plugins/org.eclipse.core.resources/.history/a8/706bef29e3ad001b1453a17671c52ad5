@@ -1,0 +1,10 @@
+package com.devsuperior.dsvendas.services;
+
+import org.springframework.stereotype.Service;
+
+@Servicee
+public class SaleService {
+	
+	
+	
+}
