@@ -1,4 +1,3 @@
-import axios from "axios";
 import { BarChart } from "components/BarChart";
 import { DataTable } from "components/DataTable";
 import { DonutChart } from "components/DonutChart";
